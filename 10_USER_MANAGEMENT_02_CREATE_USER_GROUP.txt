@@ -1,2 +1,0 @@
-CREATE USERGROUP SALES_USER_GROUP 
-SET PARAMETER 'minimal_password_length' = '8', 'force_first_password_change' = 'FALSE';
